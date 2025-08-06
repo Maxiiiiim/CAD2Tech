@@ -1,4 +1,4 @@
-# CAD2Tech
+# CAD2TechSpec
 
 ## Folder Descriptions
 The 'abc_dataset' folder contains data from the ABC dataset (https://archive.nyu.edu/handle/2451/44309);
